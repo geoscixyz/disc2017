@@ -39,7 +39,7 @@ h4
 /* end h1 group */
 p, ul, li {
     line-height: 1.65em;
-    font-size: 16px;
+    font-size: 14px;
     text-align: justify;
 }
 /* img */
@@ -779,11 +779,11 @@ code {
     margin-top: 40px;
 }
 
-/*#schedule p, ul, li {
-    line-height: 1.65em;
+#schedule p, ul, li {
+    /*line-height: 1.65em;*/
     font-size: 14px;
     text-align: justify;
-}*/
+}
 
 #locations {
     /*margin-top: 40px;*/
