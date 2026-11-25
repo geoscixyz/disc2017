@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "vancouver":{
         "location": "Vancouver, Canada",
         "date": "December 12-13, 2017",
@@ -124,24 +123,11 @@
         "venue":"Fairmont Royal York Hotel",
         "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.1060797796154!2d-79.38341318507905!3d43.64596126091771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d3152a8e61%3A0x154fe230e73270f!2sFairmont+Royal+York!5e0!3m2!1sen!2sca!4v1492358149853",
         "disc_registration_url":"https://reg.conexsys.com/exploration17",
-=======
-    "lapis2019":{
-        "location": "Facultad de Ciencias Astronómicas y Geofísicas, Universidad Nacional de La Plata",
-        "name": "Deterministic inversion ",
-        "short_name": "Deterministic inversion",
-        "instructors":["Doug Oldenburg", "Seogi Kang", "Lindsey Heagy"],
-        "date": "April 8 -12, 2019",
-        "time": "8:15 AM - 10:15 AM",
-        "venue_url":"http://lapis2019.fcaglp.unlp.edu.ar/venue.html",
-        "venue":"Facultad de Ciencias Astronómicas y Geofísicas, Universidad Nacional de La Plata",
-        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.9238695939193!2d-57.93537408401486!3d-34.908359981189236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a2e613f7dc4553%3A0x9ae80df938607a2e!2sFacultad+de+Ciencias+Astron%C3%B3micas+y+Geof%C3%ADsicas!5e0!3m2!1sen!2sus!4v1554183622002!5m2!1sen!2sus",
-        "registration_url":"http://lapis2019.fcaglp.unlp.edu.ar/registration.html",
-        "upcoming": "True",
->>>>>>> 196b0c33ec88e309c244f47483ea335831824cbf
         "additional":[
-            "Offered as a part of <a href=\"http://lapis2019.fcaglp.unlp.edu.ar/index.html\">LAPIS 2019 - Inverse methods in Geophysics</a>"
+            "The DISC is being held in conjunction with <a href=\"http://www.exploration17.com/\">Exploration 17</a>",
+            "For registration, please sign up for W12: SEG DISC 2017, EM Fundamentals and Applications - Full Day",
+            "You do not need to register for the full conference to attend the DISC"
         ],
-<<<<<<< HEAD
         "registration": "closed",
         "feedback_form": "https://docs.google.com/forms/d/e/1FAIpQLSd0LKGl5Pck01B39nvtq2DzyzlyHcOn41mV-Q3Y_3UR226PDQ/viewform?usp=sf_link"
     },
@@ -244,158 +230,183 @@
         "lab_registration_url":"https://docs.google.com/forms/d/e/1FAIpQLScteh3UgI8-FDyWWPgptgdrJ9gU9-PokOFjtoEY04vekQYRmQ/viewform?usp=sf_link",
         "feedback_form":"https://docs.google.com/forms/d/e/1FAIpQLSe9hDWQHnDwBXYPZv3ZIZ5JL1Dv9rnlpcvS4_HTV4vbW0TY6g/viewform?usp=sf_link",
         "appendices":[
-=======
-        "course_material":[
             {
-                "name":"Overview",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/1-overview.pdf"
+                "title":"All charged up",
+                "url":"https://storage.googleapis.com/simpeg/disc2017/brisbane/Appendix_all_chargedupAustralia.pdf"
             },
             {
-                "name":"Linear Tikhonov Inversions",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/2-linear_tikhonov.pdf"
-            },
-            {
-                "name":"Singular Value Decomposition",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/3-svd.pdf"
-            },
-            {
-                "name":"Linear L2 Inversions",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/4-linear_l2.pdf"
-            },
->>>>>>> 196b0c33ec88e309c244f47483ea335831824cbf
-            {
-                "name":"Nonlinear inversions",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/5-nonlinear.pdf"
-            },
-            {
-                "name":"Lp-norm inversions",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/6-lp.pdf"
-            },
-            {
-                "name":"Field scale",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/7-field_scale.pdf"
-            },
-            {
-                "name":"Wrap-up",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/8-wrapup.pdf"
-            },
-            {
-                "name":"Open Source",
-                "url":"https://storage.googleapis.com/simpeg/lapis2019/9-open-source.pdf"
+                "title":"Inversion of Geophysical Data over TKC",
+                "url":"https://storage.googleapis.com/simpeg/disc2017/brisbane/Appendix_TKCrockmodel.pdf"
             }
+
         ],
-        "app_url":"https://github.com/geoscixyz/geosci-labs",
-        "reference_url":"https://geosci.xyz",
-        "reference_name":"geosci.xyz"
+        "blog":"https://medium.com/disc2017/brisbane-d5c0c470ad3",
+        "registration": "closed"
     },
-    "houston2018":{
-        "location": "University of Houston",
-        "name": "Electromagnetic Methods: Fundamentals and Applications",
-        "short_name": "EM in Exploration",
-        "instructors":["Doug Oldenburg", "Lindsey Heagy", "Seogi Kang"],
-        "date": "July 23-27, 2018",
-        "time": "8:00 AM - 4:30 PM",
-        "venue_url":"http://www.uh.edu/nsm/_docs/geos/Campus%20Directions.pdf",
-        "venue":"University of Houston",
-        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.8707296338207!2d-95.34862038489239!3d29.723503582000227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640be569f53ab4b%3A0xacf237cc787eac17!2s3600+Cullen+Blvd%2C+Houston%2C+TX+77204%2C+USA!5e0!3m2!1sen!2sca!4v1530398759017",
-        "registration_url":"http://www.uh.edu/nsm/earth-atmospheric/professional-programs/petroleum-short-courses/",
-        "upcoming": "False",
-        "additional":[
-            "Offered as a part of the <a href=\"http://www.uh.edu/nsm/earth-atmospheric/professional-programs/petroleum-short-courses/\">University of Houston Petroleum Geophysics - Summer 2018 Short Courses</a>"
-        ],
-        "course_material":[
+    "adelaide":{
+        "location": "Adelaide, Australia",
+        "date": "August 2-3, 2017",
+        "instructors": ["Doug Oldenburg", "Lindsey Heagy"],
+        "time": "8AM-5PM",
+        "venue_url":"http://www.hotelrichmond.com.au/",
+        "venue":"Hotel Richmond, 128 Rundle Mall, Adelaide SA 5000",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.3609330668096!2d138.60203315024978!3d-34.92248388184347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab0ced38c20de2d%3A0x95916e276b7ca9c3!2sHotel+Richmond!5e0!3m2!1sen!2sca!4v1495031110737",
+        "disc_registration_url":"http://seg.org/shop/products#!/detail/17952224",
+        "lab_registration_url":"https://docs.google.com/forms/d/e/1FAIpQLSefIpaatmdCdGXr9BbvgVApfRjujpO3enGJ2KGc0zi6q9xNUg/viewform?usp=sf_link",
+        "feedback_form":"https://docs.google.com/forms/d/e/1FAIpQLSelEJrb3mJkjj0KfhEO9sS0BeNjLyOvoog7jxD_e1p1Zd2j1Q/viewform?usp=sf_link",
+        "appendices":[
             {
-                "name":"Introduction",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/0_Introduction.pdf"
+                "title":"All charged up",
+                "url":"https://storage.googleapis.com/simpeg/disc2017/adelaide/Appendix_all_chargedupAustralia.pdf"
             },
             {
-                "name":"DC Resistivity",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/1_dc_slides.pdf"
-            },
-            {
-                "name":"EM Fundamentals",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/2_EM_fundamentals.pdf"
-            },
-            {
-                "name":"Inductive Sources Part 1: TDEM",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/3a_EM_inductive_sources_part1_TDEM.pdf"
-            },
-            {
-                "name":"Inductive Sources Part 2: FDEM",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/3b_EM_inductive_sources_part2_FDEM.pdf"
-            },
-            {
-                "name":"Grounded Sources",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/4_em_grounded_sources.pdf"
-            },
-            {
-                "name":"Natural Sources",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/5_em_natural_sources.pdf"
-            },
-            {
-                "name":"Inverse Theory",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/6_inverse-theory.pdf"
-            },
-            {
-                "name":"Ground Penetrating Radar",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/7_GPR.pdf"
-            },
-            {
-                "name":"Induced Polarization",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/8_Induced_polarization.pdf"
-            },
-            {
-                "name":"Summary and the Future",
-                "url":"https://storage.googleapis.com/simpeg/houston2018/9_future.pdf"
+                "title":"Inversion of Geophysical Data over TKC",
+                "url":"https://storage.googleapis.com/simpeg/disc2017/adelaide/Appendix_TKCrockmodel.pdf"
             }
+
         ],
-        "app_url":"https://github.com/geoscixyz/geosci-labs",
-        "reference_url":"https://em.geosci.xyz/apps.html",
-        "reference_name":"em.geosci.xyz"
+        "registration": "closed",
+        "blog":"https://medium.com/disc2017/adelaide-e1a447f12c3e"
     },
-    "aem2018":{
-        "location": "Kolding, Denmark",
-        "name": "3D EM Modelling and Inversion with Open Source Resources",
-        "short_name": "AEM 2018",
-        "instructors":["Doug Oldenburg", "Lindsey Heagy", "Seogi Kang"],
-        "date": "June 17, 2017",
-        "time": "8:30 AM - 12:30 PM",
-        "venue_url":"http://www.conferencemanager.dk/AEM2018/workshop-venue.html",
-        "venue":"Hotel KoldingFjord",
-        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2259.9707947736583!2d9.553162651079594!3d55.49803418039019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c98c732442efd%3A0xa12c60cde4fdd833!2sHotel+Koldingfjord!5e0!3m2!1sen!2sdk!4v1529056828323",
-        "registration_url":"http://www.conferencemanager.dk/AEM2018/the-event.html",
-        "upcoming": "False",
+    "perth":{
+        "location": "Perth, Australia",
+        "date": "July 27, 2017",
+        "instructors": ["Doug Oldenburg", "Lindsey Heagy"],
+        "time": "8AM-5PM",
+        "venue_url":"http://citywestreceptions.com.au/",
+        "venue":"City West Function Centre, 45 Plaistowe Mews, West Perth",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3385.6483786664494!2d115.8430732151611!3d-31.943302481231797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2a32a5314f9aa243%3A0xdc278d0a96d7f57!2sCity+West+Receptions!5e0!3m2!1sen!2sca!4v1495030988819",
+        "disc_registration_url":"http://seg.org/shop/products#!/detail/17952184",
+        "lab_registration_url":"https://docs.google.com/forms/d/e/1FAIpQLSfUxoWJSuABGIrHy7yWh9A6J96hUc-vYXGCxn0AAMViYZrPxA/viewform?usp=sf_link",
+        "feedback_form":"https://docs.google.com/forms/d/e/1FAIpQLScU8r8nGWXm2mYX8-Gygusu1o6XY1AY5Uyk0Tpr8MS1QKWipQ/viewform?usp=sf_link",
+        "registration": "closed",
+        "blog":"https://medium.com/disc2017/perth-640fd4d0180a"
+    },
+    "tokyo":{
+        "location": "Tokyo, Japan",
+        "date": "June 26, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang"],
+        "time": "9AM-6PM",
+        "venue_url":"https://www.waseda.jp/top/en/access/nishiwaseda-campus",
+        "venue":"Waseda University, Nishi-waseda Campus, Building 55, Meeting room 2",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3239.8190839968997!2d139.7068095!3d35.7060694!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d2379577255%3A0x5b1d18a4125a56d0!2sNishi+Waseda+Campus!5e0!3m2!1sen!2sus!4v1494306861196",
+        "disc_registration_url":"http://shop.seg.org/Online-Store/Product-Detail/ProductId/17397058",
+        "lab_registration_url":"https://docs.google.com/forms/d/e/1FAIpQLSd4rdGSkUNxeCNeO8X87YIdN8bwCfdfw6QuDG2nnI8D0EfLBg/viewform?usp=sf_link",
+        "feedback_form":"https://docs.google.com/forms/d/e/1FAIpQLSd0CrkA8RWquiTi7FQWXLnu_1hN7BVGIJAxQ1zfCwkZRkWcwQ/viewform?usp=sf_link",
+        "registration": "closed",
+        "blog":"https://medium.com/disc2017/tokyo-japan-a66559dbc748"
+    },
+    "kyoto":{
+        "location": "Kyoto, Japan",
+        "date": "June 22, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang"],
+        "time": "9AM-6PM",
+        "venue_url":"http://www.kyoto-u.ac.jp/en",
+        "venue":"Kyoto University, Katsura Campus, C1-2-311",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3269.0323092735553!2d135.67798921523973!3d34.980855430363455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001072a3c2a7b3b%3A0x7a4ae5924c9c65cb!2sKyoto+University+Katsura+Campus!5e0!3m2!1sen!2sca!4v1494601133248",
+        "disc_registration_url":"http://shop.seg.org/Online-Store/Product-Detail/ProductId/17397087",
+        "lab_registration_url":"https://docs.google.com/forms/d/e/1FAIpQLSd4rdGSkUNxeCNeO8X87YIdN8bwCfdfw6QuDG2nnI8D0EfLBg/viewform?usp=sf_link",
+        "feedback_form":"https://docs.google.com/forms/d/e/1FAIpQLSdz13mwoNtictV__pd_lPsCGKd-SjscNAnyhoBM2li-3oMwuw/viewform?usp=sf_link",
+        "registration": "closed",
+        "blog":"https://medium.com/disc2017/kyoto-univ-japan-37cb3b74da4"
+    },
+    "daejeon":{
+        "location": "Daejeon, South Korea",
+        "date": "June 19, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang"],
+        "time": "8AM-5PM",
+        "venue_url":"http://www.kigam.re.kr/",
+        "venue":"Korea Institute of Geoscience and Mineral Resources, Jurassic Hall, 124, Gwahak-ro Yuseong-gu, Daejeon 34132",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.2387108214843!2d127.35816921459782!3d36.37921488003745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35654a4a91567401%3A0x8401cf5e365c8db4!2s124+Gwahak-ro%2C+Yuseong-gu%2C+Daejeon%2C+South+Korea!5e0!3m2!1sen!2sca!4v1491283225327",
+        "disc_registration_url":"http://shop.seg.org/Online-Store/Product-Detail/ProductId/17335698",
+        "lab_registration_url":"https://docs.google.com/forms/d/e/1FAIpQLSf89CQXoksAqBPVln-3n6H29-XqcItHDsOsk-T8VPdIGgzucg/viewform?usp=sf_link",
+        "feedback_form":"https://docs.google.com/forms/d/e/1FAIpQLSdiHceaE-OX41MT0yThWNexVlC0NctK_lUUSRR-Impe72YPOA/viewform?usp=sf_link",
+        "blog":"https://medium.com/disc2017/kigam-korea-c988161db01e",
+        "registration": "closed"
+    },
+    "taiwan":{
+        "location": "Taiwan",
+        "date": "June 14, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang"],
+        "time": "8AM-5PM",
+        "venue_url": "http://www.ncu.edu.tw/en",
+        "venue": "Room 135, Science Building 1, National Central University",
+        "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.9010562788344!2d121.1903276150049!3d24.969480784002663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346823c1ec904dcb%3A0xcdc129d4455ce456!2sNational+Central+University!5e0!3m2!1sen!2sca!4v1494601018367",
+        "lab_registration_url":"https://docs.google.com/forms/d/e/1FAIpQLSfVsAP1DcUniOCn69gOGkTh-SfrGTSIfGzcAaOjST58cok0Rg/viewform?usp=sf_link",
+        "disc_registration_url":"http://seg.org/shop/products#!/detail/17861314",
+        "feedback_form":"https://docs.google.com/forms/d/e/1FAIpQLSeW1tCPgGNmfc_68a3fQOwHgbiHdXc3foGCbIvzQai6FoSp5A/viewform?usp=sf_link",
+        "blog":"https://medium.com/disc2017/national-central-univ-taiwan-cd5a0f88c9d8",
+        "registration": "closed"
+    },
+    "hyderabad":{
+        "location": "Hyderabad, India",
+        "date": "February 27, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang"],
+        "time": "9:30AM - 6:30PM",
+        "venue_url":"http://www.ngri.org.in/",
+        "venue":"CSIR-National Geophysical Research Institute",
+        "feedback_form": "https://docs.google.com/forms/d/e/1FAIpQLSdIACeZhfltjMFKbfLP-_ZPfjhQag5Q2rf_8R2l18TnhpEmZw/viewform",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.922101086687!2d78.5466082998003!3d17.41552565651989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9944298c2933%3A0x5ad63baa93019cd6!2sNational+Geophysical+Research+Institute!5e0!3m2!1sen!2sca!4v1484502999927",
         "additional":[
-            "In conjunction with the <a href=\"http://www.conferencemanager.dk/AEM2018/the-event.html\">7th International Workshop on Airborne Electromagnetics</a>"
+            "The DISC is being held in conjunction with the Workshop on Applications of Geophysical Electromagnetics (Feb 27- March 2). For more information, see: <a href=\"/s/assets/EM-WS-Flyer-Ver-20Jan2017.pdf\">the EM workshop flyer</a>",
+            "For DISC Course and DISC Lab registration, please send an email to <a href=\"mailto:emngri2017@gmail.com\"> Dr. Ajay Manglik (emngri2017@gmail.com)</a>"
         ],
-        "course_material":[
-            {
-                "name":"Introduction",
-                "url":"https://storage.googleapis.com/simpeg/aem2018/0_Introduction.pdf"
-            },
-            {
-                "name":"EM Induction",
-                "url":"https://storage.googleapis.com/simpeg/aem2018/1_EM_Induction.pdf"
-            },
-            {
-                "name":"Field Examples",
-                "url":"https://storage.googleapis.com/simpeg/aem2018/2_Field%20examples.pdf"
-            },
-            {
-                "name":"Computation",
-                "url":"https://storage.googleapis.com/simpeg/aem2018/3_Computation.pdf"
-            },
-            {
-                "name":"Open Source",
-                "url":"https://storage.googleapis.com/simpeg/aem2018/4_Open_Source.pdf"
-            },
-            {
-                "name":"Summary",
-                "url":"https://storage.googleapis.com/simpeg/aem2018/5_Summary.pdf"
-            }
-        ],
-        "app_url":"https://github.com/geoscixyz/geosci-labs",
-        "reference_url":"https://em.geosci.xyz/apps.html",
-        "reference_name":"em.geosci.xyz"
+        "blog": "https://medium.com/disc2017/hyderabad-380c0d74220b",
+        "registration": "closed"
+    },
+    "bandung":{
+        "location": "Bandung, Indonesia",
+        "date": "February 20, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang"],
+        "time": "8AM - 5PM",
+        "venue":"Multipurpose Hall CRCS Building, 3rd floor, Bandung Institute of Techonology",
+        "venue_url":"http://gem2017.org/index.php",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9926632206507!2d107.60846504981454!3d-6.891479994995809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e65767c9b183%3A0x2478e3dcdce37961!2sBandung+Institute+of+Technology!5e0!3m2!1sen!2sca!4v1484289203930",
+        "disc_registration_url":"http://gem2017.org/register.php",
+        "feedback_form": "https://docs.google.com/forms/d/e/1FAIpQLScf74EaQ9IiddXdpih699TiqZ5g0hx6droK4731E3E3naqFtQ/viewform",
+        "additional":["in conjunction with the <a href=\"http://gem2017.org\">1st GeoEM Conference</a>"],
+        "blog": "https://medium.com/disc2017/bandung-e2099469e89b#.2kkkh5k29",
+        "registration": "closed"
+    },
+    "kualalumpur":{
+        "location": "Kuala Lumpur",
+        "date": "February 16, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang"],
+        "time": "8AM - 5PM",
+        "venue":"Mini Theatre 2, Level 22, PETRONAS Tower 2, Persiaran KLCC, 50088 Kuala Lumpur, Malaysia",
+        "venue_url":"https://www.petronastwintowers.com.my/",
+        "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.759806061626!2d101.70940594953989!3d3.1579053539700417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc37d12d669c1f%3A0x9e3afdd17c8a9056!2sPetronas+Twin+Towers+KLCC!5e0!3m2!1sen!2sca!4v1486105022250",
+        "lab_registration_url": "https://docs.google.com/forms/d/e/1FAIpQLScBYIuDAmBcmbDh5Sz-wIp3b1mSXWlP2Nb8VWoYRFcp4BWVKw/viewform",
+        "feedback_form": "https://docs.google.com/forms/d/e/1FAIpQLScyta9cbGQRN4WqP6TirX1BPpL-6q3Vhe4QwqESzR46SXRQDQ/viewform",
+        "blog": "https://medium.com/disc2017/kuala-lumpur-5226a81e07c5#.yfz7aiq3f",
+        "registration": "closed"
+    },
+    "singapore":{
+        "location": "Singapore",
+        "date": "February 13, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang"],
+        "time": "8AM - 5PM",
+        "venue":"National University of Singapore, Room EA 06-05, 9 Engineering Dr. 1, Singapore 117575",
+        "venue_url": "http://map.nus.edu.sg/",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7909690847523!2d103.76860767867532!3d1.3002589990562892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1af73e68e5cf%3A0xf3aef45f924a06b7!2s9+Engineering+Drive+1%2C+Singapore+117575!5e0!3m2!1sen!2sca!4v1484849053482",
+        "disc_registration_url":"http://shop.seg.org/Online-Store/Product-Detail/ProductId/16679989/ct/0607d565e182b7f014f37426bdf4fb1b2e4349ae7225505451fcc0eb5b5b90657edba066e9d50bfd696936da97153b47e0ab4888558d4d1810383641b3650c2f",
+        "lab_registration_url":"https://docs.google.com/forms/d/e/1FAIpQLSfdkC2Gy7uvlq7AnHNLPx4T3TRFg6DH28M4fCgsq8e07MFUJg/viewform",
+        "feedback_form": "https://docs.google.com/forms/d/e/1FAIpQLSfoH2AsMvbnexVi8W1k-mLcQEdzwIwp3U_elbOOxitn7ht4lg/viewform",
+        "blog": "https://medium.com/disc2017/singapore-a2fe320a89e3#.5uuqedsm2",
+        "additional":["hosted by Hosted by the Centre for Offshore Research &amp; Engineering, <a href=\"http://www.eng.nus.edu.sg/core/\">(CORE)</a>" ],
+        "registration": "closed"
+    },
+    "denver":{
+        "location": "Denver, USA",
+        "date": "January 30, 2017",
+        "instructors": ["Doug Oldenburg", "Seogi Kang", "Lindsey Heagy"],
+        "time": "8AM - 5PM",
+        "venue": "Colorado School of Mines, Green Center: Petroleum Hall",
+        "venue_url": "https://inside.mines.edu/GC-Petroleum-Hall",
+        "map_url":"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3067.556208512906!2d-105.22340118502436!3d39.74961862944827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sgreen+center+near+Colorado+School+of+Mines%2C+Illinois+Street%2C+Golden%2C+CO%2C+USA!5e0!3m2!1sen!2sca!4v1484285438193",
+        "disc_registration_url": "http://shop.seg.org/Online-Store/Product-Detail/ProductId/16074917",
+        "lab_registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSf0fkawewxATsPnygQQBu99Altpbp4OOUeTaLV5gBk27l5G-A/viewform",
+        "blog": "https://medium.com/disc2017/denver-d971acc22288#.b0i13kz8r",
+        "registration": "closed"
     }
 }
